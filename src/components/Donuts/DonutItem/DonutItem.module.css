@@ -26,3 +26,9 @@
   color: #c776ad;
   font-size: 1.25rem;
 }
+
+@media (max-width: 470px) {
+  .donut {
+    flex-wrap: wrap;
+  }
+}
